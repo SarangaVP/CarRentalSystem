@@ -13,7 +13,7 @@ Rent Master addresses the inefficiencies in car rental management by providing a
 - **Vehicle Management:** Efficient vehicle registration and real-time availability tracking.
 - **Customer Management:** Easy customer registration and profile management.
 - **Booking Management:** Real-time updates on vehicle bookings, reducing conflicts.
-- **Rental Process:** Automated check-in/check-out and return management.
+- **Rental Process:** Check-in/check-out and return management.
 - **Accurate Billing:** Pricing on rental duration, vehicle type, and any additional services.
 - **Earnings Overview:** Track and analyze earnings over time.
 
